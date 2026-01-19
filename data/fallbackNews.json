@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fallback-1",
+    "title": "China's Economic Reforms Show Continued Progress in 2024",
+    "summary": "Recent policy announcements highlight ongoing modernization efforts and economic stability initiatives across major sectors.",
+    "source": "Xinhua News",
+    "url": "https://www.xinhuanet.com/english/",
+    "publishedAt": "2024-01-01"
+  },
+  {
+    "id": "fallback-2",
+    "title": "International Relations: China's Global Partnership Strategy Evolves",
+    "summary": "Diplomatic engagements and trade agreements reflect China's approach to multilateral cooperation and regional development.",
+    "source": "People's Daily",
+    "url": "http://en.people.cn/",
+    "publishedAt": "2024-01-01"
+  },
+  {
+    "id": "fallback-3",
+    "title": "Technology and Innovation Drive Chinese Development Priorities",
+    "summary": "Government initiatives focus on advancing artificial intelligence, green technology, and digital infrastructure projects nationwide.",
+    "source": "China Daily",
+    "url": "https://www.chinadaily.com.cn/",
+    "publishedAt": "2024-01-01"
+  }
+]
