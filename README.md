@@ -60,3 +60,18 @@ The `/api/top-news` endpoint:
 - Uses Gemini API with Google Search grounding to fetch real-time news
 - Caches results for 6 hours to reduce API calls
 - Returns JSON array of news items with title, summary, source, URL, and date
+
+## Screenshots
+
+### Home – Top News
+![Home Page](screenshots/home.png)
+
+### Concepts
+![Concepts Page](screenshots/concepts.png)
+
+### Timeline
+![Timeline Page](screenshots/timeline.png)
+
+### Generations
+![Generations Page](screenshots/generations.png)
+
